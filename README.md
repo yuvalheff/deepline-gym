@@ -10,7 +10,7 @@ Extensive description of the framework is available in `deeplineThesis.pdf`.
 ## Installation
 After cloning the repository, do the following:
 ```bash
-cd gym-deepline
+cd deepline-gym
 pip install -e .
 ```
 Create a and activate a conda environment with Python 3.6 and run -
