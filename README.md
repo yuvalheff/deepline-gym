@@ -13,7 +13,7 @@ After cloning the repository, do the following:
 cd deepline-gym
 pip install -e .
 ```
-Create a and activate a conda environment with Python 3.6 and run -
+Create and activate a conda environment with Python 3.6 and run -
 ```bash
 pip install -r requirements.txt
 ```
