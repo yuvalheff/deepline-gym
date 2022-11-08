@@ -17,7 +17,7 @@ Create a and activate a conda environment with Python 3.6 and run -
 ```bash
 pip install -r requirements.txt
 ```
-if you are using MAC, you might need to run - 
+If you are using a MAC, you might need to run - 
 ```bash
 brew install libomp
 ```
